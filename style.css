@@ -48,3 +48,27 @@
     border-radius: 50%;
     background-color: blueviolet;
   }
+  .square {
+    width: 80px;
+    height: 80px;
+    background: orange;
+  }.square {
+    width: 80px;
+    height: 80px;
+    background: orange;
+  }
+  .crescent {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    background-color: transparent;
+    box-shadow: inset -12px 5px 0 3px orange;
+    border-radius: 50%;
+  }.crescent {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    background-color: transparent;
+    box-shadow: inset -12px 5px 0 3px orange;
+    border-radius: 50%;
+  }
